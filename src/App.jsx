@@ -94,7 +94,7 @@ function App() {
 
         {/* Success Popup */}
         {formSubmitted && (
-          <div className="absolute top-[-2.5rem] left-1/2 transform -translate-x-1/2 bg-green-500 text-white px-4 py-2 rounded-lg shadow-md">
+          <div className="absolute top-[-2.5rem] left-1/2 transform -translate-x-1/2 bg-green-300 text-white px-4 py-2 rounded-lg shadow-md">
             🎉 Reservation Submitted Successfully!
           </div>
         )}
